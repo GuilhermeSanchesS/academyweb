@@ -1,0 +1,4 @@
+node_modules
+.next
+.eslint.json
+/*.js
